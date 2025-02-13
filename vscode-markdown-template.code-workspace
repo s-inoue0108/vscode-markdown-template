@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"name": "Root",
+			"path": "."
+		},
+		{
+			"name": "Articles",
+			"path": "articles"
+		},
+		{
+			"name": "Slides",
+			"path": "slides"
+		}
+	],
+	"extensions": {
+		"recommendations": [
+			"yzhang.markdown-all-in-one",
+			"shd101wyy.markdown-preview-enhanced",
+			"marp-team.marp-vscode",
+			"hediet.vscode-drawio"
+		]
+	}
+}
